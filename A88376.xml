@@ -1,0 +1,165 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A submissive and petitionary letter subscribed. To the right Honourable the Lords of Parliament, in the upper House of Parliament assembled. And intituled The humble submission and supplication of the Lord Littleton, Lord Keeper of the Great Seale of England.</title>
+            <author>Littleton, Edward Littleton, Lord, 1589-1645.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88376</idno>
+            <idno type="STC">Wing L2585</idno>
+            <idno type="STC">Thomason E124_8</idno>
+            <idno type="STC">ESTC R1372</idno>
+            <idno type="EEBO-CITATION">99859532</idno>
+            <idno type="PROQUEST">99859532</idno>
+            <idno type="VID">111620</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88376)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 111620)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 22:E124[8])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A submissive and petitionary letter subscribed. To the right Honourable the Lords of Parliament, in the upper House of Parliament assembled. And intituled The humble submission and supplication of the Lord Littleton, Lord Keeper of the Great Seale of England.</title>
+                  <author>Littleton, Edward Littleton, Lord, 1589-1645.</author>
+               </titleStmt>
+               <extent>7, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1642]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Annotation on Thomason copy: "Octob. 24 1642".</note>
+                  <note>Signed at end: September 28. 1642. Your Lordships humble servant and suppliant, E. L.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Littleton, Edward Littleton, --  Lord, 1589-1645.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Sources --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb n="1" facs="tcp:111620:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 123 -->
+            <head>A SVBMISSIVE AND PETITIONARY LETTER SUBSCRIBED.</head>
+            <head type="sub">To the Right Honourable the Lords of Parliament, in the upper Houſe of Parliament Aſſembled. <add>Octob: 24 1642</add>
+            </head>
+            <p>
+               <hi>And Intituled</hi> The humble Submiſsion and Supplication of the Lord LITTLETON, Lord Keeper of the Great Seale of <hi>England.</hi>
+            </p>
+            <p>
+               <seg rend="decorInit">I</seg>T may pleaſe your Lordſhips: I ſhall humbly crave at you
+r Lord<g ref="char:EOLhyphen"/>ſhips hands a benigne Interpreta<g ref="char:EOLhyphen"/>tion of that which I ſhall now write, for words that come from waſted ſpirits, and an oppreſſed mind are more ſafe in being depoſited in a noble
+<pb n="2" facs="tcp:111620:2"/>
+               <!-- PDF PAGE 124 -->conſtruction than being incircled with any reſer<g ref="char:EOLhyphen"/>ved caution.</p>
+            <p>This being moved, and as I hope obtained in the nature of a Protection, to all that I ſhall ſay, I ſhal now make into the reſt, wherewith I ſhall at this time trouble your Lordſhips, a very ſtrange entrance, for in the mid'ſt of a ſtate of as great af<g ref="char:EOLhyphen"/>fliction, as I thinke mortall man can endure, ho<g ref="char:EOLhyphen"/>nour being above life, I ſhall begin with the pro<g ref="char:EOLhyphen"/>feſsion of gladneſſe in ſome things.</p>
+            <p>The firſt is that hereafter the greatneſſe of a Iudge or Magiſtrate ſhall bee one ſanctuary or protection of guiltineſſe which in few words is the beginning of a golden world.</p>
+            <p>The next is, that after this example it is likely that Iudges will flye from any thing, that is in likeneſſe of corruption, though it were at a great diſtance as from a ſerpent, which tendeth to the purging of the Courts of Iuſtice, and reſtoring them to their true honour and ſplendor.</p>
+            <p>And in theſe two points, God is my witneſſe, though it be my fortune to be the Anvill upon which thoſe good effects are beaten and wrought, I take no ſmall comfort.</p>
+            <p>But to paſſe from the motions of my heart, whereof God is only Iudge, to the merits of my
+<pb n="3" facs="tcp:111620:2"/>
+               <!-- PDF PAGE 124 -->cauſe, whereof your Lordſhips are Iudge next vn<g ref="char:EOLhyphen"/>der God, and his Lieutenant, I do vnderſtand there hath been heretofore expected from mee ſome juſtification. And therefore I have choſon one only juſtification of Iob, for after the cleere ſub<g ref="char:EOLhyphen"/>miſsion and confeſsion which I ſhall now make vnto your Lordſhips, I may ſay, and juſtifie with Iob, in theſe words: I have not hid my ſinne, as did Adam, nor concealed my thoughts in my bo<g ref="char:EOLhyphen"/>ſome.</p>
+            <p>This is the only juſtification which I will uſe.</p>
+            <p>It reſteth therefore that without fickleneſſe, I doe ingeniouſly confeſſe and acknowledge that having vnderſtood the particulars of the charge, not formally from the houſe, but enough to in<g ref="char:EOLhyphen"/>forme my conſcience, and memory, I find matter ſufficient and full, both to move me to deſert the defence, and to move your Lordſhips, to con<g ref="char:EOLhyphen"/>demne and cenſure me, neither wil I trouble your Lordſhips by ſingling out thoſe particulars, which I think may fall off.</p>
+            <p>Quid te extempta juvat ſpinis de pluribus uva? neither would I prompt your Lordſhips to obſerve vpon the proofes, where they come not home, or the ſcruple touching the credit of the witneſſes, nor will I repreſent vnto your Lord<g ref="char:EOLhyphen"/>ſhips
+<pb n="4" facs="tcp:111620:3"/>
+               <!-- PDF PAGE 125 -->how far a defence might in divers things extenuate the offence in reſpect of the time, or manner of the gift, or the like circumſtances, but onely leave thoſe things to ſpring out of your noble thoughts and obſervations of the evidence and examinations themſelves, and charitably to wind about the particulars of the charge here and there, as God ſhall put into your mindes, and ſo ſubmit my ſelfe wholly to your pietie and grace.</p>
+            <p>Now as I have ſpoken to your Lordſhips as Iudges, I ſhall ſay a few words to you as Peeres, and Prelates, humbly commending my cauſe to your noble minds and magnanimous affections.</p>
+            <p>Your Lordſhips are not ſimply Iudges but Parliamentary Iudges, you have a further extent of arbitrary power, than other Courts, and if your Lordſhips be not tyed to the ordinary courſe of Courts, or preſidents in the points of ſtrictneſſe, and ſeverity much leſſe in the points of mercy and mitigation. And yet if any thing that I ſhal move, be contrary to your Honorable and worthy ends to introduce a reformation, I ſhould not ſeek it. But herein I beſeech your Lordſhips to give mee leave to tell you a ſtory, TITUS MANLIUS tooke his ſons life for giving battaile, againſt the prohibition of his Generall. Not many yeares
+<pb n="5" facs="tcp:111620:3"/>
+               <!-- PDF PAGE 125 -->after, the like ſeverity was purſued againſt QUIN<g ref="char:EOLhyphen"/>TUS MAXIMUS by PAPIRUS CURSER, the Di<g ref="char:EOLhyphen"/>ctator, who being upon the point to be ſenten<g ref="char:EOLhyphen"/>ced, by interceſsion of ſome principall perſons of the Senate was ſpared; whereupon TITUS LIVIUS maketh this grave, and gracious obſervation: Ne<g ref="char:EOLhyphen"/>que minus firma eſt diſciplina militaris, periculo QUINTI MAXIMI, quim miſerabili ſupplicio TI<g ref="char:EOLhyphen"/>TI MANLII. The diſcipline of war was no leſſe eſtabliſhed by the queſtioning of QUINTUS MA<g ref="char:EOLhyphen"/>XIMUS, than by the puniſhment of TITUS MAN<g ref="char:EOLhyphen"/>LIUS; and the ſame reaſon is of the reformation of Juſtice, for the queſtioning men of eminent place hath the ſame terror, though not the ſame rigor with the puniſhment.</p>
+            <p>But my caſe ſtayeth not here, for my humble deſire is, that his Majeſty would bee pleaſed to take the Seale into his hands, which is a great downefall, and may ſerve, I hope, in it ſelfe for an expiation of my faults.</p>
+            <p>Wherefore if mercy and mitigation be in your power, and doe no wayes croſſe your ends; why ſhould not I but hope for your Lordſhips favour and commiſeration.</p>
+            <p>Your Lordſhips will be pleaſed to behold the chiefe Paterne, the King our Soveraigne, a King of
+<pb n="6" facs="tcp:111620:4"/>
+               <!-- PDF PAGE 126 -->incomparable clemencie, and one whoſe heart is inſcrutable for wiſdom and goodneſſe; your Lord<g ref="char:EOLhyphen"/>ſhips will remember that there ſate not theſe hun<g ref="char:EOLhyphen"/>dred yeares before, a Prince in your Houſe, and ne<g ref="char:EOLhyphen"/>ver ſuch a Prince, whoſe preſence deſerves to be made memorable with Records, and Acts mixt with mercie and juſtice; your ſelves are either No<g ref="char:EOLhyphen"/>bles, and compaſsion ever breatheth in the veines of Noble bloud, or Prelates, who are ſervants to him, that will not break the bruiſed Reeds, nor quench the ſmoaking Flax.</p>
+            <p>You all ſit under one high Stage, and there<g ref="char:EOLhyphen"/>fore cannot but be more ſenſible of the changes of the world, and of the fall of any in high place; nei<g ref="char:EOLhyphen"/>ther will your Lordſhips forget that there are vi<g ref="char:EOLhyphen"/>tia temporis, as well as vitia hominis, and that the beginning of reformation, hath the contrary power of the Poole of Betheſda, for that had ſtrength to cure onely him that was firſt caſt in, and this hath commonly ſtrength to hurt onely him that is firſt caſt in, and for my part I wiſh it may ſtay there, and go no further.</p>
+            <p>Laſtly, I aſſure my ſelfe your Lordſhips have a noble feeling of mee as a member of your own body, and one that in this very Seſsion had ſome taſte of your loving affections, I hope it was not a
+<pb n="7" facs="tcp:111620:4"/>
+               <!-- PDF PAGE 126 -->lightning before the death of them, but rather a ſparke of that grace, which now in the conclu<g ref="char:EOLhyphen"/>ſion will more appeare. And therefore my hum<g ref="char:EOLhyphen"/>ble ſuit unto your Lordſhips, is, that my peni<g ref="char:EOLhyphen"/>tent ſubmiſsion, may be my ſentence, and the ta<g ref="char:EOLhyphen"/>king away of the Seale my puniſhment, and that your Lordſhips will ſpare any further ſentence, but recommend me to his Majeſties Grace, and pardon for all that is paſt. Gods holy Spirit be amongſt you.</p>
+            <closer>
+               <dateline>
+                  <date>September 28. 1642.</date>
+               </dateline>
+               <signed>Your Lordſhips humble ſervant and Suppliant, E. L.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
